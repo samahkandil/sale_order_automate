@@ -16,7 +16,7 @@
     """,
     'website': 'https://www.linkedin.com/in/samah-kandil-odoo',
     'support': 'samahqandeel22@gmail.com',
-    'images': ['static/description/img1.png'],
+    'images': ['static/description/imag1.png'],
     'depends' : ['sale_stock'],
     'data': [
         'views/stock_warehouse.xml',
